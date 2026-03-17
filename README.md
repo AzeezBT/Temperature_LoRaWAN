@@ -269,6 +269,7 @@ function Decoder(bytes,port){
 
 # CIRCUIT DIAGRAM:
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/3e490574-7224-4eec-8c08-380c405661ce" />
+
 # OUTPUT:
 <img width="1919" height="1079" alt="Screenshot 2026-03-11 092516" src="https://github.com/user-attachments/assets/773f4125-6101-470e-bd10-f51830751774" />
 <img width="1919" height="1199" alt="Screenshot 2026-03-17 143758" src="https://github.com/user-attachments/assets/664e7908-32f2-4d9c-9a84-27842e29b823" /><img width="1917" height="1199" alt="Screenshot 2026-03-17 143720" src="https://github.com/user-attachments/assets/63f30e19-2c5f-48bc-9773-48e91e81a242" />
